@@ -1,7 +1,7 @@
 # Ticket-Bot
 A simple ticket bot developed with discord.js v13
 
-Modules installation commands
+Modules installation commands:
 
   npm install discord.js
   
