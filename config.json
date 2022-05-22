@@ -1,0 +1,33 @@
+{
+    "bot": {
+        "token": "",
+        "clientid": "",
+        "nomebot": ""
+    },
+
+    "server": {
+        "idguild": "",
+        "nomeserver": ""
+    },
+
+    "ruoli": {
+        "staffgen": ""
+    },
+
+    "stanze": {
+        "ticket": {
+            "scelta": "",
+            "generale": "",
+            "fazioni": "",
+            "donazioni": "",
+            "rimborsi": "",
+            "ban": ""
+        },
+
+        "log": {
+            "transcript": ""
+        }
+    }
+
+}
+  
