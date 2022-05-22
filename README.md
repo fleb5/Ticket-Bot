@@ -1,7 +1,7 @@
 # Ticket-Bot
 A simple ticket bot developed with discord.js v13
 
-![1](https://user-images.githubusercontent.com/79475133/169692136-a0794d9e-f98c-4b93-b328-7b8b8d2bc102.png)
+https://user-images.githubusercontent.com/79475133/169694527-336fe10b-c1ae-4704-9bf7-fa95e4c0de08.mp4
 
 # How to install?
 ```
