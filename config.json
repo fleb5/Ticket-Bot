@@ -1,31 +1,31 @@
 {
     "bot": {
-        "token": "",
-        "clientid": "",
-        "nomebot": ""
+        "token": "BOT_TOKEN",
+        "clientid": "BOT_CLIENT_ID",
+        "nomebot": "NAME_BOT"
     },
 
     "server": {
-        "idguild": "",
-        "nomeserver": ""
+        "idguild": "ID_GUILD",
+        "nomeserver": "NAME_SERVER"
     },
 
     "ruoli": {
-        "staffgen": ""
+        "staffgen": "STAFF_ROLE_ID"
     },
 
     "stanze": {
         "ticket": {
-            "scelta": "",
-            "generale": "",
-            "fazioni": "",
-            "donazioni": "",
-            "rimborsi": "",
-            "ban": ""
+            "scelta": "CATEGORY_ID",
+            "generale": "CATEGORY_ID",
+            "fazioni": "CATEGORY_ID",
+            "donazioni": "CATEGORY_ID",
+            "rimborsi": "CATEGORY_ID",
+            "ban": "CATEGORY_ID"
         },
 
         "log": {
-            "transcript": ""
+            "transcript": "TRANSCRIPT_CHANNEL_ID"
         }
     }
 
