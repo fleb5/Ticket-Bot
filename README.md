@@ -5,9 +5,9 @@ https://user-images.githubusercontent.com/79475133/169694527-336fe10b-c1ae-4704-
 
 # Commands
 ```
-- /aggiungi (to add an user at ticket)
-- /rimuovi (to remove an user from ticket)
-- /setup (to send setup message)
+/aggiungi (to add an user at ticket)
+/rimuovi (to remove an user from ticket)
+/setup (to send setup message)
 ```
 
 # How to install?
