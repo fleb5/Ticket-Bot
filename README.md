@@ -12,10 +12,7 @@ https://user-images.githubusercontent.com/79475133/169694527-336fe10b-c1ae-4704-
 
 # How to install?
 ```
-npm install discord.js
-npm install fs
-npm install chalk
-npm install discord-html-transcripts
+npm install
 ```
 # How to config?
 ```
